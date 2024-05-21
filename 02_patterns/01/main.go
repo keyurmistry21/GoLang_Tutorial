@@ -7,5 +7,6 @@ func main() {
 	//reverseLeftAngleTriangle()
 	//pyramid()
 	//reversePyramid()
-	floydsTriangle()
+	//floydsTriangle()
+	diamondPattern()
 }
