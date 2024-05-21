@@ -6,5 +6,6 @@ func main() {
 	//leftAngleTriangle()
 	//reverseLeftAngleTriangle()
 	//pyramid()
-	reversePyramid()
+	//reversePyramid()
+	floydsTriangle()
 }
